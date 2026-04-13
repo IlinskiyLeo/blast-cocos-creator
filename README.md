@@ -1,6 +1,3 @@
-Here's a README in Russian for your project:
-markdown# Blast — Игра-головоломка
-
 Прототип игры в жанре "Blast", выполненный как тестовое задание.
 
 ## Технологии
